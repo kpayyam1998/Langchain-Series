@@ -12,7 +12,7 @@
 ```
 
 ```bash
-    download ollam model : [link](https://ollama.com/download/windows)
+    download ollam model : [link] (https://ollama.com/download/windows)
     we can use it locally 
 ```
 
