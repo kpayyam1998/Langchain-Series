@@ -14,7 +14,7 @@
  
 ## download ollam model : 
 
-[link] (https://ollama.com/download/windows)
+[link](https://ollama.com/download/windows)
 we can use it locally 
 
 
