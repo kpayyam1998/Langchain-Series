@@ -30,3 +30,8 @@ we can use it locally
     git push -u origin main
 
 ```
+## Connect with multiple LLM model at the same time using FastAPI
+
+```bash
+   Install dependencies 
+```
