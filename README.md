@@ -17,3 +17,15 @@
 ```
 
 
+```bash
+
+    GITPUSH COMMANd
+
+    git init
+    git add .
+    git commit "Code added"
+    git remote add origin "repo.git"
+    git branch -M main
+    git push -u origin main
+
+```
