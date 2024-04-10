@@ -25,7 +25,7 @@
     git add .
     git commit "Code added"
     git remote add origin "repo.git"
-    git branch -M main
+    git branch -M main (optional)
     git push -u origin main
 
 ```
