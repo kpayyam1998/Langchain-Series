@@ -11,10 +11,11 @@
     conda create -n python=3.8 -y
 ```
 
-```bash
-    download ollam model : [link] (https://ollama.com/download/windows)
-    we can use it locally 
-```
+ 
+## download ollam model : 
+
+        [link] (https://ollama.com/download/windows)
+        we can use it locally 
 
 
 ```bash
