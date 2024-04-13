@@ -1,0 +1,8 @@
+streamlit
+openai
+langchain_community
+python-dotenv
+bs4
+pypdf
+faiss-cpu
+chromadb
